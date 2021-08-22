@@ -11,7 +11,7 @@ Added comments to CSS
 Noticed many duplicated CSS code elements. Made a note of each duplication with comments.
 Went through and re-classed the HTML classes to fit one class and then moved over to the CSS and changed the class to the new class and consolidated code.
 
-Created: Primary-boarder, section-title, .benefit-img consolidation
+Consolidated: .benefits div, .benefits h3 .benefit img, .content div, .content img, .content h2
 
 
 
